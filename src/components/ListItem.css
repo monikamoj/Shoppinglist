@@ -1,0 +1,12 @@
+.list-item {
+  padding: 0.3rem;
+}
+
+.backlog .list-item {
+  background: lightgray;
+}
+
+.shopping-list .list-item {
+  background: hotpink;
+}
+
